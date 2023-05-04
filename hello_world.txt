@@ -1,4 +1,1 @@
-Hello world, how are you?
-Test number two!!
-Another test. Tes number 3
-ANother line!
+Now I am familiar with the basics of Git and GitHub!! 
